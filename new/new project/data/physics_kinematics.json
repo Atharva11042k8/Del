@@ -1,0 +1,10 @@
+[
+  {
+    "question": "State the formula for nCr.",
+    "answer": "\\binom{n}{r} = \\frac{n!}{r!(n - r)!}"
+  },
+  {
+    "question": "What is the formula for permutations of n items taken r at a time?",
+    "answer": "P(n, r) = \\frac{n!}{(n - r)!}"
+  }
+]
